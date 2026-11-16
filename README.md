@@ -11,7 +11,7 @@ Most of what's here are school labs, hackathon nights and small builds. The four
 <a href="https://echochar-x.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/echocharx-dark.svg"><img src="./assets/echocharx-light.svg" alt="echocharX: Flask B2B platform built at a hackathon" width="49%"></picture></a>
 </p><p>
 <a href="https://github.com/amibeee/nuit2024"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nuit2024-dark.svg"><img src="./assets/nuit2024-light.svg" alt="nuit2024: Angular SSR app from La Nuit de l'Info 2024" width="49%"></picture></a>
-<a href="https://github.com/amibeee/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-dark.svg"><img src="./assets/portfolio-light.svg" alt="portfolio: hand-written personal site" width="49%"></picture></a>
+<a href="https://amibeee.github.io/portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-dark.svg"><img src="./assets/portfolio-light.svg" alt="portfolio: hand-written personal site" width="49%"></picture></a>
 </p>
 
 &nbsp;
@@ -25,4 +25,4 @@ Most of what's here are school labs, hackathon nights and small builds. The four
   <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/amibeee/amibeee/output/snake-light.svg" width="100%">
 </picture>
 
-<sub>Open to internships and hackathon teams. Say hi through an issue on any repo, or find me at <a href="https://echochar-x.vercel.app">echochar-x.vercel.app</a>.</sub>
+<sub>Open to internships and hackathon teams · <a href="https://amibeee.github.io/portfolio/">amibeee.github.io/portfolio</a></sub>
