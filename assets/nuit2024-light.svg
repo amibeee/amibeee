@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 210" width="480" height="210" role="img" aria-label="nuit2024: Built overnight at La Nuit de l&#x27;Info 2024: a server-rendered course catalogue with an app shell and Angular Material.">
+<rect x=".5" y=".5" width="479" height="209" rx="12" fill="#ffffff" stroke="#d8dee4"/>
+<rect x="0" y="28" width="3" height="40" rx="1.5" fill="#b26b00"/>
+<text x="28" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" letter-spacing="1.5" fill="#b26b00">ANGULAR · SSR · TYPESCRIPT</text>
+<text x="452" y="42" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#59636e">2024</text>
+<text x="28" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-.5" fill="#1f2328">nuit2024</text>
+<text x="28" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#59636e">Built overnight at La Nuit de l&#x27;Info 2024:</text><text x="28" y="129" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#59636e">a server-rendered course catalogue with</text><text x="28" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#59636e">an app shell and Angular Material.</text>
+<text x="28" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e">→ github.com/amibeee/nuit2024</text>
+</svg>
